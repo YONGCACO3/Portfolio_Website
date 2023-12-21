@@ -9,6 +9,6 @@ Welcome to the source repository for [www.jiayonglu.com](http://www.jiayonglu.co
 - **Built with Modern Technologies**: The website is developed using:
   - **JavaScript**: For dynamic and interactive user experience.
   - **React**: A powerful JavaScript library for building user interfaces with reusable components.
-  - **Bootstrap**: A widely-used front-end framework that simplifies the development of responsive design and a mobile-friendly layout with HTML, CSS, and JavaScript.
-- **Dynamic Contact Section**: Includes a server-backed messaging feature that allows users to directly send messages to me through the website. (Currently, for www.jiayonglu.com, the backend server functionality has been substituted with an email sending service.)
+  - **Bootstrap**: A front-end framework for creating responsive and mobile-optimized websites with HTML, CSS, and JavaScript.
+- **Dynamic Contact Section**: Includes a server-backed messaging feature that allows users to directly send messages to me through the website. (Currently, for www.jiayonglu.com, the backend server functionality has been substituted with an email sending function.)
 
